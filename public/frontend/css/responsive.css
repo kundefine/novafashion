@@ -1,0 +1,323 @@
+/* lg */
+
+@media (min-width: 1200px) {}
+
+
+/* md */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.nav1 {
+		width: 55%;
+	}
+	.clock-celter {
+		margin: auto;
+		width: 100%;
+	}
+	.nav1 {
+		width: 55%;
+	}
+	.banner-imag {
+		top: 0px;    
+	}
+	.owl-item {
+		display: inline-block;
+		vertical-align: top;
+	}
+	.flip-clock-wrapper ul, .mens-clock .bf-countdown .flip-clock-wrapper ul{
+		width:55px!important;
+		padding:0px!important;
+	}
+	.flip-clock-wrapper {
+		margin: 1em;
+		margin-left: 0px!important;
+	}
+	.grid{
+		text-align:center;
+	}
+	.tab-non{
+		display:none!important;
+	}
+	.work-item {
+		display: inline-block;
+		width: 45.5%;
+		position: relative;
+		margin: 11px;
+	}
+	
+	.head-in-mobile{
+		display:block;
+	}
+	.charcebox {
+		margin: 28px 0;
+		width: 100%;
+		background-color: #000;
+		display: inline-block;
+	}
+	.subsi {
+		top: 0;
+		right: 7%;
+	}
+	.charcebox .subs {		
+		right: 6%;		
+	}
+	.display-mobi-none{
+		display:none;
+	}
+	.mobil-head{
+		background-color:#000;
+	}
+	.logo {
+		    vertical-align: middle;
+		float: none;
+		display: table-cell;
+		width: 60%;
+		padding: 0px 6px;
+	}
+	.logo img {
+		 margin:auto;
+		 height:auto;
+	}
+	.mainmenu-area p {
+		font-size: 12px;
+	}
+	.mainmenu-area {
+		top: 0px;
+	}
+	
+   
+}
+
+/* sm */
+
+@media (min-width: 767px) and (max-width: 970px) {
+	.tab-non{
+		display:none!important;
+	}
+	.clock-celter {
+		margin: auto;
+		width: 43%;
+	}
+	.nav1 {
+		width: 55%;
+	}
+	.banner-imag {
+		top: 0px;    
+	}
+	.owl-item {
+		display: inline-block;
+		vertical-align: top;
+	}
+	.grid{
+		text-align:center;
+	}
+	.work-item {
+		display: inline-block;
+		width: 45.5%;
+		position: relative;
+		margin: 11px;
+	}
+	.flip-clock-wrapper ul li a div div.inn {
+		font-size: 30px!important;
+	}
+	.flip-clock-wrapper ul li {
+		line-height: 49px!important;
+	}
+	.flip-clock-wrapper ul, .mens-clock .bf-countdown .flip-clock-wrapper ul{
+		height:50px!important;
+		line-height:50px!important;
+		margin:2px!important;
+	}
+	.flip-clock-wrapper {
+		margin: 0em!important;
+		margin-left: 10px!important;
+	}
+	.flip-clock-dot.top {
+		top: 12px!important;
+	}
+	.flip-clock-dot {
+		width: 5px!important;
+		height: 5px!important;
+		left: 4px!important;
+	}
+	.flip-clock-dot.bottom {
+		bottom: 60px!important;
+	}
+	.flip-clock-divider .flip-clock-label {
+		right: -50px!important;
+	}
+	.flip-clock-wrapper ul, .mens-clock .bf-countdown .flip-clock-wrapper ul{
+		width:25px!important;
+		padding:0px!important;
+	}
+	.flip-clock-wrapper ul li a div.up:after {
+		top: 24px!important;
+	}
+	.head-in-mobile{
+		display:block;
+	}
+	.charcebox {
+		margin: 28px 0;
+		width: 100%;
+		background-color: #000;
+		display: inline-block;
+	}
+	.subsi {
+		top: 0;
+		right: 7%;
+	}
+	.charcebox .subs {		
+		right: 6%;		
+	}
+	.display-mobi-none{
+		display:none;
+	}
+	.mobil-head{
+		background-color:#000;
+	}
+	.logo {
+		    vertical-align: middle;
+		float: none;
+		display: table-cell;
+		width: 60%;
+		padding: 0px 6px;
+	}
+	.logo img {
+		 margin:auto;
+		 height:auto;
+	}
+	.mainmenu-area p {
+		font-size: 12px;
+	}
+	.mainmenu-area {
+		top: 0px;
+	}
+	
+}
+/* xs */
+
+@media (max-width: 767px) {
+	.display-tab-none{
+		display:none;
+	}
+	.banner-imag {
+		top: 0px;    
+	}
+	.owl-item {
+		display: inline-block;
+		vertical-align: top;
+	}
+	.grid{
+		text-align:center;
+	}
+	.work-item {
+		display: inline-block;
+		width: 45.5%;
+		position: relative;
+		margin: 11px;
+	}
+	.flip-clock-wrapper ul li a div div.inn {
+		font-size: 30px!important;
+	}
+	.flip-clock-wrapper ul li {
+		line-height: 49px!important;
+	}
+	.flip-clock-wrapper ul, .mens-clock .bf-countdown .flip-clock-wrapper ul{
+		height:50px!important;
+		line-height:50px!important;
+		margin:2px!important;
+	}
+	.flip-clock-wrapper {
+		margin: 0em!important;
+		margin-left: 10px!important;
+	}
+	.flip-clock-dot.top {
+		top: 12px!important;
+	}
+	.flip-clock-dot {
+		width: 5px!important;
+		height: 5px!important;
+		left: 4px!important;
+	}
+	.flip-clock-dot.bottom {
+		bottom: 60px!important;
+	}
+	.flip-clock-divider .flip-clock-label {
+		right: -50px!important;
+	}
+	.flip-clock-wrapper ul, .mens-clock .bf-countdown .flip-clock-wrapper ul{
+		width:25px!important;
+		padding:0px!important;
+	}
+	.flip-clock-wrapper ul li a div.up:after {
+		top: 24px!important;
+	}
+	.head-in-mobile{
+		display:block;
+	}
+	.charcebox {
+		margin: 28px 0;
+		width: 100%;
+		background-color: #000;
+		display: inline-block;
+	}
+	.subsi {
+		top: 0;
+		right: 7%;
+	}
+	.charcebox .subs {		
+		right: 6%;		
+	}
+	.display-mobi-none{
+		display:none;
+	}
+	.mobil-head{
+		background-color:#000;
+	}
+	.logo {
+		    vertical-align: middle;
+		float: none;
+		display: table-cell;
+		width: 60%;
+		padding: 0px 6px;
+	}
+	.logo img {
+		 margin:auto;
+		 height:auto;
+	}
+	.mainmenu-area p {
+		font-size: 12px;
+	}
+	.mainmenu-area {
+		top: 0px;
+	}
+}
+
+/* XS Portrait */
+@media (min-width: 667px) and (max-width: 736px) {
+
+}
+@media (min-width: 568px) and (max-width: 667px) {
+
+}
+@media (min-width: 480px) and (max-width: 568px) {
+
+}
+@media (min-width: 300px) and (max-width: 420px) {
+	.nav1 {
+		width: 95%;
+		padding: 0;
+	}
+	.work-item {
+		width: 43.5%;
+	}
+	.manu-grad a {
+		float: left;
+		width: 46%;
+	}
+	.nav1 li a {
+		padding: 5px 25px;
+	}
+	.flip-clock-wrapper ul, .mens-clock .bf-countdown .flip-clock-wrapper ul{
+		width:24px!important;
+	}
+}
